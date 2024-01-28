@@ -88,7 +88,7 @@ header{
     gap: 1.5remm;
 }
 .home-text{
-    font-size: 3.5rem;
+    font-size: 2.8rem;
     font-weight: 800;
     color: var(--main-color);
 }
@@ -125,4 +125,38 @@ header{
 .home-img{
     max-width: 560px;
     width: 100%;
+}
+.heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.heading h2{
+    font-size: 2.2rem;
+    font-weight: 800;
+}
+.service-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 160px));
+    justify-content: space-between;
+    gap: 1rem;
+}
+.ser-box{
+    background: var(--main-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1rem;
+    padding: 35px 20px;
+    border-radius: 2rem;
+}
+.ser-box img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+.ser-box p{
+    color: var(--container-color);
 }
