@@ -44,4 +44,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Contact
 
-For any inquiries or feedback, please contact the project maintainer at [kyasse@example.com](mailto:akyasmuhamadzaidan59@gmail.com).
+For any inquiries or feedback, please contact the project maintainer at [akyasmuhamadzaidan59@gmail.com](mailto:akyasmuhamadzaidan59@gmail.com).
